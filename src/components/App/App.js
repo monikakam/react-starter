@@ -11,6 +11,7 @@ class App extends React.Component {
         <List title ={['Things to do ', <sup key='1'>soon!</sup> ]}>          
         <img src="http://uploads.kodilla.com/bootcamp/fer/11.react/space.png"></img>
         </List>
+        
                 
       </main>      
     )
