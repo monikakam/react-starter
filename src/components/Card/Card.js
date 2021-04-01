@@ -12,7 +12,7 @@ class Card extends React.Component {
       const {title} = this.props;
       return (      
         <section className={styles.component}>        
-          {title}       
+          <h3>{title}</h3>       
         </section>            
       );
     }
